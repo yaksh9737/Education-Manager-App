@@ -1,0 +1,8 @@
+/* styles.css */
+.app-content {
+  margin-left: 16rem; /* Adjust according to your sidebar width */
+  padding: 2rem; /* Optional: Add some padding for better spacing */
+  height: 100vh; /* Make sure it fills the height of the viewport */
+  overflow-y: auto; /* Enable scrolling if content overflows */
+  background: aliceblue;
+}
